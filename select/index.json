@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DUSTCELL - albino",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-09T16:36:50.945882Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "albino",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_albino_DUSTCELL.txt"
+    }
+  ]
+}
