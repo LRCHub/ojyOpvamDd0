@@ -1,4 +1,4 @@
-# DUSTCELL – DUSTCELL - albino
+# DUSTCELL – albino
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
