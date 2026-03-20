@@ -1,9 +1,113 @@
 {
   "version": 1,
-  "base_track": "DUSTCELL - albino",
+  "base_track": "albino",
   "base_artist": "DUSTCELL",
-  "createdAt": "2026-02-09T16:36:50.945882Z",
+  "createdAt": "2026-03-20T10:16:10.671597Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Albino Steve",
+      "artist": "Rx Papi feat. Gud",
+      "has_synced": true,
+      "path": "select/01_Albino_Steve_Rx_Papi_feat._Gud.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Albino Steve",
+      "artist": "Rx Papi & Gud",
+      "has_synced": true,
+      "path": "select/02_Albino_Steve_Rx_Papi_&_Gud.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Albino Moon",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/03_Albino_Moon_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Albino",
+      "artist": "Stephen Lynch",
+      "has_synced": true,
+      "path": "select/04_Albino_Stephen_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Albino Rhino",
+      "artist": "Dog Fashion Disco",
+      "has_synced": false,
+      "path": "select/05_Albino_Rhino_Dog_Fashion_Disco.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Black Albino Bones",
+      "artist": "Fucked Up",
+      "has_synced": false,
+      "path": "select/06_Black_Albino_Bones_Fucked_Up.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Albino Rhino",
+      "artist": "Dog Fashion Disco",
+      "has_synced": true,
+      "path": "select/07_Albino_Rhino_Dog_Fashion_Disco.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Albino Rhino (Unreleased Track)",
+      "artist": "Dog Fashion Disco",
+      "has_synced": true,
+      "path": "select/08_Albino_Rhino_(Unreleased_Track)_Dog_Fashion_Disco.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Albino",
+      "artist": "Ljungblut",
+      "has_synced": false,
+      "path": "select/09_Albino_Ljungblut.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jesús Albino",
+      "artist": "Voz de Mando",
+      "has_synced": false,
+      "path": "select/10_Jesús_Albino_Voz_de_Mando.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "albino",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/11_albino_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Albino",
+      "artist": "IKD-SJ",
+      "has_synced": true,
+      "path": "select/12_Albino_IKD-SJ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Albino Steve",
+      "artist": "Rx Papi",
+      "has_synced": true,
+      "path": "select/13_Albino_Steve_Rx_Papi.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +115,15 @@
       "artist": "DUSTCELL",
       "has_synced": false,
       "path": "select/pl_01_albino_DUSTCELL.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "albino",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/localdb_01_albino_DUSTCELL.txt",
+      "repo_name": "ojyOpvamDd0"
     }
   ]
 }
